@@ -1,20 +1,20 @@
 #include <stdio.h>
 /**
-* maim -Entry point
+* main -Entry point
 *
-* Return: Always 0 (success/correct)
+* Return: Always 0 (Success/correct)
 */
 int main(void)
 
 {
 char alphabet;
 
-for (alphabet = 'a'; alphabet <= 'z'; aplhabet++)
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-putcher(alphabet);
+putchar(alphabet);
 }
 
-putcher('\n');
+putchar('\n');
 
 return (0);
 
