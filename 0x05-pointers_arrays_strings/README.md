@@ -3,3 +3,13 @@ Write a function that takes a pointer to an int as parameter and updates the val
 
 
 Prototype: void reset_to_98(int *n);
+
+Write a function that returns the length of a string.
+
+
+
+Prototype: int _strlen(char *s);
+
+FYI: The standard library provides a similar function: strlen. Run man strlen to learn more.
+
+
