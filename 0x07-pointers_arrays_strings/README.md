@@ -66,4 +66,8 @@ Returns a pointer to the beginning of the located substring, or NULL if the subs
 
 FYI: The standard library provides a similar function: strstr. Run man strstr to learn more.
 
-6- 
+6-Write a function that prints the chessboard.
+
+
+
+Prototype: void print_chessboard(char (*a)[8]); 
