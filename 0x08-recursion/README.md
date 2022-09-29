@@ -57,4 +57,12 @@ FYI: The standard library provides a different function: sqrt. Run man sqrt to l
 
 Prototype: int is_prime_number(int n);
 
-8.   
+8. Write a function that returns 1 if a string is a palindrome and 0 if not.
+
+
+
+Prototype: int is_palindrome(char *s);
+
+An empty string is a palindrome
+
+9.    
